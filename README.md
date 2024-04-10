@@ -3,7 +3,7 @@ This theme addresses a common issue with Parsec on Linux where an extra cursor i
 
 
 ## Installation
-1. Copy the theme folder to `/home/$USER/.icons/InvisibleCursor`.
+1. Copy the theme folder to `/home/$USER/.icons/`.
 2. Create a keybind to switch between your default cursor theme and the Invisible Cursor theme.
 
 ## Usage
