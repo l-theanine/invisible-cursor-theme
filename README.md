@@ -13,3 +13,6 @@ xfconf-query --channel xsettings --property /Gtk/CursorThemeName --set Invisible
 ```
 And vice versa to switch back to your original theme.
 
+### Example Keybind Configuration
+* Super+Insert: Switch to default cursor theme
+* Super+Shift+Insert: Switch to Invisible Cursor theme
